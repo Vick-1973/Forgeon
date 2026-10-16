@@ -24,3 +24,9 @@ A web-based forum application built using Vanilla JavaScript, HTML, and CSS.
    node server.js
    ```
 2. Enjoy forgeon my fellas :)
+
+## Authors
+
+- **[Vick-1973](https://github.com/Vick-1973) - Braulio Millanés Loza**
+- **[diegoaestevez](https://github.com/diegoaestevez) - Diego Armando Estévez Martínez**
+- **[Pandap845](https://github.com/Pandap845) - Víctor Emiliano Rodríguez Águila** 
